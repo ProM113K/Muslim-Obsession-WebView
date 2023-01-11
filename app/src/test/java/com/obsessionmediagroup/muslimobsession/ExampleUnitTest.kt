@@ -1,4 +1,4 @@
-package com.example.muslimobsession
+package com.obsessionmediagroup.muslimobsession
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.muslimobsession
+package com.obsessionmediagroup.muslimobsession
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

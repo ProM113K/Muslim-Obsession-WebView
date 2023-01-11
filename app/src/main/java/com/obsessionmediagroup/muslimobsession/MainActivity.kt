@@ -1,4 +1,4 @@
-package com.example.muslimobsession
+package com.obsessionmediagroup.muslimobsession
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowInsetsCompat
+import com.example.muslimobsession.R
 
 class MainActivity : AppCompatActivity() {
 
