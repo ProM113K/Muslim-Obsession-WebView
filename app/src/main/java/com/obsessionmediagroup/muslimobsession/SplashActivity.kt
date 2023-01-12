@@ -7,7 +7,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.view.WindowManager
-import com.example.muslimobsession.R
+import com.obsessionmediagroup.muslimobsession.R
 
 @SuppressLint("CustomSplashScreen")
 @Suppress("DEPRECATION")
