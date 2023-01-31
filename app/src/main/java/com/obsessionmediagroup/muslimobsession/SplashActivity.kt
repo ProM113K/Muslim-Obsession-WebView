@@ -2,12 +2,11 @@ package com.obsessionmediagroup.muslimobsession
 
 import android.annotation.SuppressLint
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.view.WindowManager
-import com.obsessionmediagroup.muslimobsession.R
+import androidx.appcompat.app.AppCompatActivity
 
 @SuppressLint("CustomSplashScreen")
 @Suppress("DEPRECATION")

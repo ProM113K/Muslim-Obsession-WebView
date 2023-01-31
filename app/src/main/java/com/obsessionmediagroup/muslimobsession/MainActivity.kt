@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     // if you press Back button this code will work
+    @Deprecated("Deprecated in Java")
     override fun onBackPressed() {
         // if your webview can go back it will go back
         if (webView.canGoBack())
